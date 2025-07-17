@@ -1,6 +1,9 @@
 # 👋 Hi there, I’m a Passionate QA Automation Engineer
 
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9lZWlxcHAwdnh2MGZ5ZW9ucWV0ajdua2gyZTljMDBnNWI5eHBmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
+</p>
 
 
 
@@ -13,8 +16,17 @@ I am a dedicated **Software Test Engineer | QA Automation Engineer** with a stro
 ---
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/osamaragab1/) 
+<h2>📬 How to reach me:</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/osamaragab1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+  </a>
+  <a href="mailto:osamaragab880@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+  </a>
+</p>
+
 
 # 💻 Tech Stack:
 
@@ -64,8 +76,8 @@ I am a dedicated **Software Test Engineer | QA Automation Engineer** with a stro
 
 ## 📜 Certifications
 
-- 📌 **ISTQB Certified Tester Foundation Level (CTFL)** – [Verify](http://scr.istqb.org/?number=240722052)
-- 📌 **ISTQB Mobile Application Tester (CTFL-MAT)** – [Verify](http://scr.istqb.org/?number=250319011)
+- 📌 **ISTQB Certified Tester Foundation Level (CTFL)** – [View Certificate](http://scr.istqb.org/?number=240722052)
+- 📌 **ISTQB Mobile Application Tester (CTFL-MAT)** – [View Certificate](http://scr.istqb.org/?number=250319011)
 
 ---
 
